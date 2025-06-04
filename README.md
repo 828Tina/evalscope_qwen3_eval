@@ -1,6 +1,6 @@
 # EvalScope使用教程，包括训练、评估、压测
 
-全过程教程可参考：train-eval.ipynb
+全过程教程可参考：[train-eval.ipynb](./train-eval.ipynb)
 
 ## 安装环境
 
