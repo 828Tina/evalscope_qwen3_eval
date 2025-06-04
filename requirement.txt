@@ -1,0 +1,8 @@
+ms-swift
+datasets==3.2.0
+modelscope==1.22.0 
+swanlab
+deepspeed
+evalscope
+omegaconf
+sse_starlette
